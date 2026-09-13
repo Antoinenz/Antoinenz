@@ -18,7 +18,7 @@ none of this is my job (yet). everything here is a hobby, a way to get better, o
 
 i never really set out to have a philosophy, but looking back most of what i build ends up the same way: one binary, one folder to back up, runs on your own machine, doesn't phone home. no electron, no telemetry, nothing you can't just delete.
 
-when i'm not coding i'm behind a camera, running events, or behind a mixing desk — not quite professionally, but not quite casually either.
+when i'm not coding i'm behind a camera, running events, or behind a mixing desk — not quite professionally, usually just for fun or to help out.
 
 ## stuff i've built
 
